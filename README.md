@@ -1,7 +1,9 @@
 <div align="center">
+  <a href="https://app.daily.dev/Yurand"><img src="https://api.daily.dev/devcards/cb3cec3b79f348b281adf35db088ecec.png?r=q4f" width="200" alt="Yurand's Dev Card"/></a>
   <a href="https://github.com/YurandCL">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YurandCL&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YurandCL&layout=compact&langs_count=7&theme=radical"/>
+  
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
