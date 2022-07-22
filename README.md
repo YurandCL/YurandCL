@@ -25,6 +25,6 @@
 
 <div aling="center">
   <a href="https://app.daily.dev/Yurand"><img src="./devcard.svg" width="150" alt="Yurand's Dev Card" /></a>
-  <a href="https://viteconf.org/"><img src="./images/vite2022.jpg" width="150" alt="Vite conf 2022 Oct. 11-12" /></a>
+  <a href="https://viteconf.org/"><img src="./images/vite2022.jpg" width="350" alt="Vite conf 2022 Oct. 11-12" /></a>
   <a href="https://nextjs.org/conf"><img src="./images/next2021.png" width="150" alt="Next conf 2021 Oct. 26" /></a>
 </div>
