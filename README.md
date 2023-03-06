@@ -24,7 +24,7 @@
   ##
 
 <div aling="center">
-  <a href="https://app.daily.dev/Yurand"><img src="./devcard.svg" width="150" alt="Yurand's Dev Card" /></a>
+  <a href="https://www.midufest.com/"><img src="./images/midufest.png" width="350" alt="Ticket MiduFest 2023 Mar. 21-22" /></a>
   <a href="https://nextjs.org/conf"><img src="./images/next2022.png" width="350" alt="Next conf 2022 Oct. 25" /></a>
   <a href="https://viteconf.org/"><img src="./images/vite2022.jpg" width="350" alt="Vite conf 2022 Oct. 11-12" /></a>
   <a href="https://miduconf.com/"><img src="./images/miduconf2022.png" width="350" alt="Midu conf 2022 Sep. 13" /></a>
